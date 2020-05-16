@@ -1,13 +1,14 @@
 # Course work - "Getting and parsing information from social networks"
-### Now there are:
-* Scrapper 1.0:
-   * Some features for getting and parsing user info
-   * Implemented searching by hashtags and parsing some info about it 
-### Requirements:
-* Install InstagramApi:
+### Now there are scrappers for the following resourses:
+* AvtoRu
+* Avito
+* Instagram
+* Badoo
 
-   ```shell 
-   pip install InstagramApi
-   ```
-   Original repo here: https://github.com/LevPasha/Instagram-API-python
+### Additional files:
+* SQL script for Instagram scrapper
+* Application for Instagram dataset labeling (GUI):
+    * There are sourse code and a binary (win x64)
+    * Saves time for dataset labeling
+    * Uses chromedriver
    
